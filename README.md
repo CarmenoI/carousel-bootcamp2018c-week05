@@ -9,5 +9,5 @@ I made this project by first making the html putting in the sections and creatin
 #### if(slideId.length==index){index = 0;} for forward button 
 #### if(0 > index){index = slideId.length - 1;} for backwards button.
 
-### What I learned
+# What I learned
 With this project I learned how to use an array to create a revolving carousel.
